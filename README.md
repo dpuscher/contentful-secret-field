@@ -1,6 +1,6 @@
 # Contentful Secret Field App
 
-This project provides a custom field app for Contentful to handle secret values.
+This project provides a custom field app for Contentful to handle ramdom string values of fixed length (like a secret).
 
 ## Installation
 
